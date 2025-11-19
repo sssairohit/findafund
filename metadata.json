@@ -1,0 +1,5 @@
+{
+  "name": "findafund",
+  "description": "A centralized repository to discover, search, and filter through all government grants offered by various departments in India.",
+  "requestFramePermissions": []
+}
